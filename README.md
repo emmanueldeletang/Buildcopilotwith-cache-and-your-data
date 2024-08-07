@@ -4,6 +4,7 @@ sample code to bulid your copilot and load your data inside and put question and
 
 please find the architecture diagram 
  
+![image](https://github.com/user-attachments/assets/5bfabda9-68a1-4706-8f3f-3f0205435d48)
 
 
 
