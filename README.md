@@ -27,7 +27,8 @@ please find the architecture diagram
 
 ## Demo script
 - Open "cosmosddbnosql.ipynb" python notebook
-- Run the cells to create the database (with vector support), create the container and populate the Cosmos DB database with different data 
+- Create the database in your Cosmosdb account , and be sure the features Vector Search for NoSQL API (preview) is turn on , if you turn on , you may wait several minutes to execute the code 
+- Run the cells to create create the container and populate the Cosmos DB database with different data 
 - The last cell launch Gradio UI 
 - if you ingest the samples pdf and word  file, you can ask these questions :
 
