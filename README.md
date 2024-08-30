@@ -24,6 +24,7 @@ please find the architecture diagram
 - Activate virtual ennvironment: .venv\scripts\activate
 - Install required libraries: pip install -r requirements.txt
 - Replace keys with your own values in example.env
+- don't forget to have the model openAI one text-embbeding and one GPT ( can be 4.0 ,3.5 ) ... 
 
 ## Demo script
 - Open "cosmosddbnosql.ipynb" python notebook
